@@ -1,0 +1,12 @@
+Como coletar dados automaticamente de um site usando o Node.js e o Puppeteer
+https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer-pt
+
+Web Scraping with Javascript and NodeJS
+https://www.scrapingbee.com/blog/web-scraping-javascript/
+
+10 BEST FACEBOOK SCRAPERS 2022
+https://earthweb.com/how-to-scrape-a-facebook-group-with-python/
+
+4 Ferramentas para fazer extração de dados em Node.js
+https://www.twilio.com/blog/4-ferramentas-web-scraping-in-node-js
+
